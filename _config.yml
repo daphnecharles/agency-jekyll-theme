@@ -8,38 +8,17 @@ description: "We are a black-owned diversity, equity, and inclusion consulting f
 
 # Team names, titles and social links
 people:
-  - name: Kay Garland
+  - name: Tremaine Smith
     pic: 1
-    position: Lead Designer
+    position: Co-Founder of Smith&Charles DEI Consulting
     social:
-      - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: stack-overflow
-        url: #
+    bio: Tremaine is a Program Coordinator for an adolescent health education program at a hospital in NYC and an independent DEI consultant with Smith&Charles.  Tremaine has a love for the intersection of identity and education. In pursuing his interests, he has coordinated and sat on panels for diversity in America and abroad.
 
-  - name: Larry Parker
+  - name: Daphne Charles
     pic: 2
-    position: Lead Marketer
+    position: Co-Founder of Smith&Charles DEI Consulting
     social:
-      - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: linkedin
-        url: #
-
-  - name: Diana Petersen
-    pic: 3
-    position: Lead Developer
-    social:
-      - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: google-plus
-        url: #
+    bio: Daphne Charles is a diversity, equity, and inclusion consultant with Smith & Charles as well as a Software Engineer at American Express. She holds a Masters Degree in Information Science and a Bachelors degree in Information Technology from Rutgers University. As a DEI consultant, she specializes in helping women and people of color break into the tech industry through tailored mentoring services and career coaching.
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
