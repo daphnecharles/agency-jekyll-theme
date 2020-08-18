@@ -4,6 +4,14 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+.margin-30 { 
+    margin: 30px;
+}
+
+.email {
+    color: #{{ site.data.template.color.primary }};
+}
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -284,9 +292,8 @@ header .intro-text {
 }
 
 header .intro-text .intro-lead-in {
-    background-color: rgba(0,0,0,0.4);
-    padding-top: 10px;
-    padding-bottom: 10px;
+    background-color: rgba(0,0,0,0.5);
+    padding: 10px;
     margin-bottom: 50px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
@@ -310,9 +317,8 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in {
-        background-color: rgba(0,0,0,0.4);
-    padding-top: 10px;
-    padding-bottom: 10px;
+        background-color: rgba(0,0,0,0.5);
+        padding: 10px;
     margin-bottom: 50px;
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
@@ -347,6 +353,7 @@ section h3.section-subheading {
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
+    color: white;
 }
 
 @media(min-width:768px) {
