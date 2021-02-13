@@ -443,6 +443,21 @@ section h3.section-subheading {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
+    .hidden-lg-up{
+        display:none;
+    }
+}
+
+@media(min-width:960px) {
+    .hidden-lg-up{
+        display:none;
+    }
+}
+
+@media(max-width:767px) {
+    .hidden-md-down{
+        display:none;
+    }
 }
 
 .timeline {
